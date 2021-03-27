@@ -22,3 +22,5 @@ For example : 1) Blue -> Click blue.
               2) Blue,Red -> Click Blue,Red.   
               3) Blue,Red,Yellow -> Click Blue,Red,Yellow.  
 If you don't follow pattern, you will fail.  
+
+Link for game : https://burakkepuc.github.io/Simon-game/
