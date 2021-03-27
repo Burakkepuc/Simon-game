@@ -1,6 +1,6 @@
 # Simon-game
 
-#What is JQuery ? 
+#What is JQuery ?    
 jQuery is a JavaScript library that allows web developers to add extra functionality to their websites.   
 They make shorts code more than vanilla javascript. JQuery prevents complexity for code.  
 
