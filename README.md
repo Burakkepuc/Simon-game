@@ -18,9 +18,9 @@ The game creates some patterns and you have to accord it. You should be able to 
 and try to apply it on buttons. 
 
 To start, click any key.  
-For example : 1) Blue -> Click blue.   
-              2) Blue,Red -> Click Blue,Red.   
-              3) Blue,Red,Yellow -> Click Blue,Red,Yellow.  
+Pattern example you have to follow : 1) Blue -> Click blue.   
+                                     2) Red -> Click Blue,Red.   
+                                     3) Yellow -> Click Blue,Red,Yellow.  
 If you don't follow pattern, you will fail.  
 
 Link for game : https://burakkepuc.github.io/Simon-game/
